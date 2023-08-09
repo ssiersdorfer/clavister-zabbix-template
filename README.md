@@ -14,3 +14,5 @@ With this Template you can monitor you clavister netwalls.
 ![Screenshot](image1.png)
 
 ![Screenshot](image2.png)
+
+![Screenshot](image3.png)
