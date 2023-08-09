@@ -11,4 +11,6 @@ With this Template you can monitor you clavister netwalls.
 - Threat Protection Stats
 - User Authentication Stats
 
- 
+![Screenshot](image1.png)
+
+![Screenshot](image2.png)
